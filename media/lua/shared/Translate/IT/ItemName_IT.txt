@@ -1,4 +1,4 @@
-ItemName_EN = {
+ItemName_IT = {
 /************** PAINT **************/
 ItemName_Base.PaintBlack= "Vernice - Nera",
 ItemName_Base.PaintBlue = "Vernice - Blu",
